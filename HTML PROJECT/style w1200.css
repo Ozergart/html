@@ -1,0 +1,122 @@
+@media screen and (min-width: 0) and (max-width: 1200px) {
+ *{
+   min-height: 0;
+   min-width: 0;
+ }
+  .cont-1{
+    width: 92%;
+  }
+  .cont-2{
+    width: 80%;
+    height: 100%;
+  }
+  /*!!!!!!!!!!!!!!!!!!!!!!!!*/
+  #order{
+    height: 330px;
+    top: 450px;
+  }
+  .order-mini{
+
+  }
+  .order{
+flex-wrap: wrap;
+  }
+  .orderbutton{
+    width: 47.5%;
+    margin-bottom: 15px;
+  }
+  #ordernumber{
+    width: 100%;
+    box-sizing: border-box;
+  }
+  #services-block-mini{
+    flex-wrap: wrap;
+    justify-content: start;
+  }
+  #service-blocks-text{
+    width: 100%;
+    height: 200px;
+  }
+#services-block{
+  padding-top: 130px;
+  box-sizing: border-box;
+  height: auto;
+}
+.service-blocks{
+  height: auto;
+  margin: 0;
+  padding: 0;
+  min-height: 0;
+  width: 47.5%;
+}  #service-blocks-3{
+  margin-right: 5%;
+}  .links{
+     width: 100%;
+  min-width: 0;
+}
+#export-code-block2{
+  padding: 0;
+  width: 100%;
+>h2{
+  margin-top: 20px;
+}
+}
+#export-code-block{
+  height: 400px;
+  min-height: 0;
+  min-width: 0;
+  max-width: none;
+}
+.href{
+  width: 100%;
+}
+#big-finance{
+  height: auto;
+}
+#service{
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+}
+#finance-services{
+  height: auto;
+}
+#find-index>label{
+  width: calc(100% - 250px);
+  display: block;
+}
+#find-town{
+  width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
