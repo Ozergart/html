@@ -716,9 +716,8 @@ a{
   justify-content: center;
 }
 #branches-block-mini{
-  width: 81.25vw;
-  height: 35vh;
-  max-width: 1200px;
+  width: 100%;
+  height: 60%;
   margin-top: 8vh;
 }
 #branches-block-mini>h2{
@@ -799,12 +798,11 @@ footer{
   min-height: 690px;
 }
 #footer-mini{
-  max-width: 1200px;
-  width: 81.25%;
+  width: 100%;
   height: 66.50390625vh;
   display: flex;
   border-bottom: 1px solid #99A2AA;
-  min-height: 650px;
+  min-height: 660px;
 }
 .footer-columns{
   display: flex;
@@ -813,7 +811,8 @@ footer{
   /*width: 23%;*/
   /*padding: 0 1%;*/
   width: 300px;
-  height: 630px;
+  /*height: 630px;*/
+  height: auto;
 }
 .footer-columns>a{
   color: #99A2AA;
