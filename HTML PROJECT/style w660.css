@@ -7,6 +7,10 @@
         height: 100%;
     }
     /*!!!!!!!!!!!!!!!!!!!!!!!!*/
+    header{
+        justify-content: start;
+        padding-left: 10px;
+    }
     #order{
         height: 330px;
         top: 450px;
@@ -14,8 +18,12 @@
     .navigation{
         display: none;
     }
+    .nav-mini{
+        display: none;
+    }
     #nav-mobile{
         display: block;
+        justify-content: left;
     }
   .navigation2{
       color: #99A2AA;
@@ -47,7 +55,7 @@
     }
     .nav-icon{
         position: relative;
-        right: 500px;
+       font-size: 30px;
     }
     #order{
         height: 330px;
