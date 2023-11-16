@@ -44,9 +44,11 @@ flex-wrap: wrap;
   padding: 0;
   min-height: 0;
   width: 47.5%;
-}  #service-blocks-3{
+}
+#service-blocks-3{
   margin-right: 5%;
-}  .links{
+}
+.links{
      width: 100%;
   min-width: 0;
 }
@@ -77,6 +79,9 @@ flex-wrap: wrap;
 #finance-services{
   height: auto;
 }
+#slick-list{
+  height: auto;
+}
 #find-index>label{
   width: calc(100% - 250px);
   display: block;
@@ -96,6 +101,12 @@ flex-wrap: wrap;
   height: auto;
 }
 #middle-block-mini{
+  height: auto;
+}
+footer{
+  height: auto;
+}
+#footer-mini{
   height: auto;
 }
 
