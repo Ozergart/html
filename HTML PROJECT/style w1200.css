@@ -1,8 +1,4 @@
 @media screen and (min-width: 0) and (max-width: 1200px) {
- *{
-   min-height: 0;
-   min-width: 0;
- }
   .cont-1{
     width: 92%;
   }
@@ -87,6 +83,20 @@ flex-wrap: wrap;
 }
 #find-town{
   width: 80%;
+}
+.news-big{
+  flex-wrap: wrap;
+  height: 500px;
+  gap: 15px;
+}
+.news-block{
+  width: 100%;
+}
+#middle-block{
+  height: auto;
+}
+#middle-block-mini{
+  height: auto;
 }
 
 
